@@ -16,7 +16,7 @@ plugins: [
       // browse to http://localhost:3000/ during development,
       // ./public directory is being served
       host: 'localhost',
-      port: 30,
+      port: 3000,
       server: { baseDir: ['...2nd attempt/js'] }
     })
   ]
